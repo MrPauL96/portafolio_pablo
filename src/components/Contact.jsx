@@ -15,13 +15,13 @@ const contactLinks = [
     icon: FiLinkedin,
     label: 'LinkedIn',
     value: '/in/jpvillegasg',
-    href: 'https://linkedin.com/in/jpvillegasg',
+    href: 'https://www.linkedin.com/in/juan-pablo-villegas-g%C3%B3mez-91ba16148/',
   },
   {
     icon: FiGithub,
     label: 'GitHub',
     value: '@jpvillegasg',
-    href: 'https://github.com/jpvillegasg',
+    href: 'https://github.com/MrPauL96',
   },
 ]
 
